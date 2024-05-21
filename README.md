@@ -5,11 +5,11 @@
 
 
 <div>
-💻 I’m currently working on Next.js projects<br>
-🌟 I’m currently learning API<br>
-🪐 Ask me about Reactjs<br>
-🌈 My portfolio: https://myportfoliosofia.vercel.app <br> 
+💻 I’m currently working on Next.js and Typescript projects<br>
 😄 Pronouns: she/her<br>
+🪐 Ask me about Reactjs<br>
+🌟 I’m currently learning API<br>
+🌈 My portfolio: https://myportfoliosofia.vercel.app <br> 
 🔮 Fun fact: I love programming but I love cats more<br>
 💪🏼 Future Goals: Learn more technologies. Never stop creating new ideas.
 </div>
